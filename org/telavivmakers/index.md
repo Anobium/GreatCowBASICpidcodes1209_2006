@@ -1,4 +1,0 @@
----
-layout: org
-title: telavivmakers
----
